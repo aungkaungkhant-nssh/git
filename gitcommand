@@ -1,0 +1,28 @@
+gs ="git status"
+ga="git add ."
+gl="git log --oneline"
+gc="git commit -m"
+gh="open url"
+
+git clone url
+
+
+.gitignore file htee mar /foldername ko hteet pay like
+
+
+git checkout -b branch name <- thu ka brach built pee at branch ko twar the 
+git checkout master -> git merge branchname -> master brach paw add nee
+git push origin branchname->branch tin nee
+git chekout master -> git branch -D branchname ->vscode brach delete way
+git push origin --delete branchname->github paw mar shite tat branch pyat nee
+
+
+git stash <-thu ka loke nay tat a loke ko ka na delete pay the
+
+git stash pop <- delete htar tat har ko pyan kaw pay the
+
+gs nat kyi lite loz "untracked file par nay yin"->git stash --include-stracked  lox run pay ya mae,
+
+opensource called ->contribution
+
+fork <- thu ka thu myar repo ko koe repo out yoke aung loke tar
